@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0E7490,100:06B6D4&height=280&section=header&text=Divyansh%20Goel&fontSize=60&fontColor=CFFAFE&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0E7490,100:06B6D4&height=280&section=header&text=Divyansh&fontSize=60&fontColor=CFFAFE&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=AI%2FML+Developer;Computer+Vision;NLP+Applications;Python+%7C+Scikit-learn+%7C+TensorFlow+%7C+OpenCV" alt="Typing SVG" />
 
@@ -27,9 +27,9 @@ AI/ML developer with hands-on experience in building end-to-end machine learning
 
 **Programming Languages**
 
-![Skills](https://skillicons.dev/icons?i=python,java&theme=dark)
+![Skills](https://skillicons.dev/icons?i=python,java,mysql&theme=dark)
 
-`Python` `Java`
+`Python` `Java` `SQL`
 
 **Machine Learning & AI**
 
@@ -113,18 +113,6 @@ AI/ML developer with hands-on experience in building end-to-end machine learning
 Scored 94.40 percentile in India's largest skill contest, recognized by industry leaders including Infosys, Hitachi, and FIS.
 
 </div>
-
-<br/>
-
-## 🔷 Education
-
-**Bachelor of Technology – Computer Science & Engineering**
-Babu Banarasi Das Institute of Technology & Management, Lucknow
-`CGPA: 8.0 / 10 (till Sem 6)` &nbsp;·&nbsp; Expected: 2027
-
-**Class XII – Intermediate**
-City Montessori School, Lucknow
-`88.16%` &nbsp;·&nbsp; 2023
 
 <br/>
 
